@@ -31,8 +31,8 @@ LunarHosts 為您提供 **網頁架設**、**雲端資料庫**、**軟體後端�
 
 ## 如何確保真的安全 ?
 
-* 【 付款方面 】，使用第三方金流平台 [藍新金流](https://www.newebpay.com/website/Page/content/sercurity\_guarantee) (有著多種資安認證，確保買賣雙方資料安全)
-* 【 節點方面 】，使用設備放置在具有 ISO27001 的[**是方電訊機房**](https://www.chief.com.tw/)並與多家國際業者互聯
+* 【 付款方面 】，使用第三方金流平台 [藍新金流](https://www.newebpay.com/website/Page/content/sercurity\_guarantee) 及 [**街口支付**](https://www.jkopay.com/application) (有著多種資安認證，確保買賣雙方資料安全)
+* 【 節點方面 】，目前服務設備放置在具有 ISO27001 的[**是方電訊機房**](https://www.chief.com.tw/)並與多家國際業者互聯
 * 【 軟體方面 】，我們使用的各項軟體都是購買官方正版的許可證
 
 ## 相關網站
@@ -48,6 +48,7 @@ LunarHosts 提供多種管道進行付款，未來會陸續新增更多付款管
 
 * 超商代碼
 * 銀行轉帳 ( 臺灣銀行、華南銀行 )
+* 街口支付
 * PayPal
 
 ## 聯絡管道

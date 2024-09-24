@@ -17,6 +17,8 @@
   * [分享使用者帳號](store/account/share-account.md)
   * [重置客戶中心密碼](store/account/reset-password.md)
   * [啟用雙重驗證](store/account/two-factor-authentication.md)
+* [付款方式](store/payment/README.md)
+  * [街口支付教學](store/payment/jkopay.md)
 * [服務管理](store/services/README.md)
   * [申請取消服務](store/services/cancel.md)
 
